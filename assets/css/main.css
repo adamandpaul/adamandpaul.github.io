@@ -1494,6 +1494,11 @@ code {
   text-align: right; }
 
 /* Section/Article */
+.group-heading {
+  text-align: center;
+  margin: 1em 0 0.5em;
+  font-style: italic; }
+
 section.special, article.special {
   text-align: center; }
 
@@ -2393,7 +2398,8 @@ body.landing #main {
   #cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {
     color: inherit; }
   #cta p {
-    margin: 0; }
+    margin: 0;
+    line-height: 4em; }
   #cta form {
     margin: 0 auto;
     max-width: 100%;

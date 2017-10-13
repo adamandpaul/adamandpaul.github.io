@@ -189,6 +189,12 @@
 
 /* Section/Article */
 
+    .group-heading {
+        text-align: center;
+        margin: 1em 0 0.5em;
+        font-style: italic;
+    }
+
 	section, article {
 		&.special {
 			text-align: center;
@@ -1366,6 +1372,7 @@
 
         p {
             margin: 0;
+            line-height: 4em;
         }
 
 		form {
