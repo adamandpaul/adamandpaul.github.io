@@ -1,5 +1,7 @@
 {
-    "name": "",
+    "name": "Adam & Paul",
+    "short_name": "Adam & Paul",
+    "start_url": ".",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
